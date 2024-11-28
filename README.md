@@ -10,7 +10,7 @@
     <a href="https://x">Gim Hee Lee</a>
   </p>
   <h4 align="center"> <a style="color: grey; pointer-events: none; text-decoration: none;">When I turn to <b>Dust</b>, you will see my <b>Smile</b> (待我成塵時，你將見我微笑) --- Lu Xun (魯迅)</a> </h4>
-  <h3 align="center"><a href="https:x">Paper</a> | <a href="https://x">Project Page</a> | <a href="#" style="color: grey; pointer-events: none; text-decoration: none;">Code (Coming Soon)</a> </h3>
+  <h3 align="center"><a href="https://arxiv.org/pdf/2411.18072">Paper</a> | <a href="https://yanyan-li.github.io/project/gs/smilesplat">Project Page</a> | <a href="#" style="color: grey; pointer-events: none; text-decoration: none;">Code (Coming Soon)</a> </h3>
   <div align="center"></div>
 </p>
 <p align="center">
@@ -27,16 +27,13 @@
   <summary>Table of Contents</summary>
   <ol>
   <li>
-    <a href="#Recults">Installation</a>
+    <a href="#Results">Results</a>
     </li>
     <li>
       <a href="#installation">Installation</a>
     </li>
     <li>
       <a href="#pre-trained-checkpoints">Pre-trained Checkpoints</a>
-    </li>
-    <li>
-      <a href="#camera-conventions">Camera Conventions</a>
     </li>
     <li>
       <a href="#datasets">Public Datasets</a>
